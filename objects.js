@@ -1,1 +1,1 @@
-let playlist = {Journey: 'Faithfully'};
+var playlist = {Journey: 'Faithfully'};
