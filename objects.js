@@ -1,1 +1,2 @@
-var playlist = {['Michael Jackson']: 'Bad'};
+var playlist = {['Michael Jackson']: 'Bad', Journey: 'Faithfully'};
+
