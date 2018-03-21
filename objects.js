@@ -1,1 +1,1 @@
-var playlist = {Journey: 'Faithfully'};
+var playlist = {['Michael Jackson']: 'Bad'};
